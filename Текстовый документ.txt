@@ -1,0 +1,177 @@
+    <!DOCTYPE html>
+    <html lang="ru">
+    <head>
+        <meta charset="UTF-8">
+
+        <title>Окна-Мастер финляндия — Вариант 11</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+
+        <header class="site-header">
+            <div class="header-overlay">
+                <h1>Окна-Мастер финляндия</h1>
+                <p>Свет. Тепло. Тишина в вашем доме</p>
+            </div>
+        </header>
+
+        <div class="main-container">
+            <aside class="sidebar">
+                <nav class="main-menu">
+                    <ul>
+                        <li><a href="#home">Главная</a></li>
+                        <li><a href="#about-firm">О фирме</a></li>
+                        <li><a href="#about-author">Об авторе</a></li>
+                        <li class="menu-divider">Каталог</li>
+                        <li><a href="#pvc">ПВХ Окна</a></li>
+                        <li><a href="#wood">Деревянные окна</a></li>
+                        <li><a href="#alu">Алюминиевые окна</a></li>
+                    </ul>
+                </nav>
+            </aside>
+
+            <main class="content">
+                <section id="home">
+                    <h2>Инновационные оконные системы</h2>
+                    <p>Добро пожаловать в магазин высокотехнологичных светопрозрачных конструкций. Мы предлагаем решения от ведущих мировых брендов для любого типа недвижимости.</p>
+                    <img src="https://images.unsplash.com/photo-1591825729269-caeb344f6df2?auto=format&fit=crop&w=1200&q=80" alt="Интерьер с окнами" class="promo-img">
+                </section>
+
+                <section id="pvc">
+                    <h2>Пластиковые (ПВХ) системы</h2>
+                    <div class="product-grid">
+                        <div class="product-card">
+                            <img src="https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=300&q=80" alt="KBE Engine">
+                            <h3>KBE Engine 58</h3>
+                            <ul>
+                                <li>Камер: 3</li>
+                                <li>Глубина: 58 мм</li>
+                            </ul>
+                            <p class="price">от 18 000 ₽</p>
+                        </div>
+                        <div class="product-card">
+                            <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=300&q=80" alt="KBE Expert">
+                            <h3>KBE Expert 70</h3>
+                            <ul>
+                                <li>Камер: 5</li>
+                                <li>Технология: Greenline</li>
+                            </ul>
+                            <p class="price">от 25 000 ₽</p>
+                        </div>
+                        <div class="product-card">
+                            <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=300&q=80" alt="KBE 76">
+                            <h3>KBE 76 Premium</h3>
+                            <ul>
+                                <li>Камер: 5</li>
+                                <li>Энергоэффективность: High</li>
+                            </ul>
+                            <p class="price">от 32 000 ₽</p>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="wood">
+                    <h2>Деревянные окна (Евро-тип)</h2>
+                    <div class="product-grid">
+                        <div class="product-card">
+                            <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=300&q=80" alt="Euro 68">
+                            <h3>Euro 68 Pine</h3>
+                            <ul>
+                                <li>Материал: Сосна</li>
+                                <li>Слои бруса: 3</li>
+                            </ul>
+                            <p class="price">от 45 000 ₽</p>
+                        </div>
+                        <div class="product-card">
+                            <img src="https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?auto=format&fit=crop&w=300&q=80" alt="Euro 78">
+                            <h3>Euro 78 Larch</h3>
+                            <ul>
+                                <li>Материал: Лиственница</li>
+                                <li>Влагостойкость: Max</li>
+                            </ul>
+                            <p class="price">от 65 000 ₽</p>
+                        </div>
+                        <div class="product-card">
+                            <img src="https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=300&q=80" alt="Euro 94">
+                            <h3>Euro 94 Oak</h3>
+                            <ul>
+                                <li>Материал: Дуб</li>
+                                <li>Глубина: 94 мм</li>
+                            </ul>
+                            <p class="price">от 120 000 ₽</p>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="alu">
+                    <h2>Алюминиевые системы</h2>
+                    <div class="product-grid">
+                        <div class="product-card">
+                            <img src="https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=300&q=80" alt="Schuco 75">
+                            <h3>Schüco AWS 75.SI+</h3>
+                            <ul>
+                                <li>Стиль: Скрытые петли</li>
+                                <li>Профиль: 75 мм</li>
+                            </ul>
+                            <p class="price">от 85 000 ₽</p>
+                        </div>
+                        <div class="product-card">
+                            <img src="https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=300&q=80" alt="Schuco 90">
+                            <h3>Schüco AWS 90.SI+</h3>
+                            <ul>
+                                <li>Стандарт: Passive House</li>
+                                <li>Теплоизоляция: Max</li>
+                            </ul>
+                            <p class="price">от 110 000 ₽</p>
+                        </div>
+                        <div class="product-card">
+                            <img src="https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?auto=format&fit=crop&w=300&q=80" alt="MasterLine 8">
+                            <h3>Reynaers MasterLine 8</h3>
+                            <ul>
+                                <li>Гарантия: 25 лет</li>
+                                <li>Дизайн: Бельгия</li>
+                            </ul>
+                            <p class="price">от 95 000 ₽</p>
+                        </div>
+                        <div class="product-card">
+                            <img src="https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=300&q=80" alt="SlimLine">
+                            <h3>SlimLine 38</h3>
+                            <ul>
+                                <li>Вид: Сверхтонкая рама</li>
+                                <li>Стиль: Лофт/Индустриал</li>
+                            </ul>
+                            <p class="price">от 75 000 ₽</p>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="about-firm">
+                    <h2>О фирме</h2>
+                    <p>«Окна-Мастер финляндия — ведущий поставщик остекления в Скандинавии. Мы объединяем европейские традиции качества с инновационными материалами.</p>
+                    <div class="contacts">
+                        <p><strong>Адрес:</strong> Mannerheimintie 12, 00100 Helsinki, Finland</p>
+                        <p><strong>Телефон:</strong> +358 44 249 0476</p>
+                    </div>
+                    <div>
+                                        </div>
+                </section>
+
+                <section id="about-author">
+                    <h2>Об авторе</h2>
+                    <div class="author-box">
+                        <div>
+                            <p><strong>Имя:</strong> dmitrenko</p>
+                            <p>студент 1 курса ИИВТ, гений, филантроп, но не миллиардер...  </p>
+                        </div>
+                    </div>
+                </section>
+            </main>
+        </div>
+
+        <footer class="site-footer">
+            <p>&copy; 2025 dmitrenko. Все права защищены.</p>
+            <p>Связь с нами: <a href="mailto:dmitrenko@gmail.com">dmitrenko@gmail.com</a></p>
+        </footer>
+
+    </body>
+    </html>
